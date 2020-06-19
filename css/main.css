@@ -1,5 +1,5 @@
 body {
-    background: #0f1a20;
+    background: ##1f1f1f;
     color: white;
     font-family: sans-serif;
     text-align: center;
@@ -16,7 +16,7 @@ body {
 }
 .btn-default,
 .btn-default:focus {
-    background: #21343e;
+    background: #212121;
     border: 0;
     color: white;
     padding: 10px 25px;
@@ -24,7 +24,7 @@ body {
 }
 .btn-default:hover,
 .btn-default:active {
-    background: #4f595f !important;
+    background: #212121 !important;
     color: white !important;
 }
 h4{
