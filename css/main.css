@@ -1,6 +1,6 @@
 body {
     background: #1f1f1f;
-    color: white;
+    color: Black;
     font-family: sans-serif;
     text-align: center;
     margin: 0;
@@ -18,7 +18,7 @@ body {
 .btn-default:focus {
     background: #ebebeb;
     border: 0;
-    color: white;
+    color: Black;
     padding: 10px 25px;
     transition: 1s ease;
 }
